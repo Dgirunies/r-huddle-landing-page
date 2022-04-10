@@ -10,7 +10,7 @@ export const Flex = styled.div`
   }
 
   @media (max-width: ${({ theme }) => theme.mobile}) {
-    flex-direction: colunm;
+    flex-direction: column;
     text-align: center;
   }
 `;
