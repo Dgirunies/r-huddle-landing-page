@@ -13,10 +13,7 @@ const Footer = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
             voluptas id sapiente ipsam odio beatae, consequatur quo quasi
             praesentium porro distinctio incidunt aliquam ullam impedit quia ex
-            numquam vitae aliquid! Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Nostrum voluptas id sapiente ipsam odio beatae,
-            consequatur quo quasi praesentium porro distinctio incidunt aliquam
-            ullam impedit quia ex numquam vitae aliquid!
+            numquam vitae aliquid!
             <li></li>
             <li>+244 948 766 894</li>
             <li>erineu16@gmail.com</li>
