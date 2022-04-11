@@ -2,6 +2,8 @@
 
 Huddle landing page is a project created with React starring React Styled Components. It is a part of a challenge provided by Frontend Mentor (Huddle landing page with alternating feature blocks).
 
+Whatch the live version [here](https://dgirunies.github.io/r-huddle-landing-page/).
+
 ## What to Expect
 
 The Corresponding Project Screens (both Web and Mobile) are as shown below.
